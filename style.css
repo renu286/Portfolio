@@ -67,7 +67,7 @@
 /* home section */
 .home{
     display: flex;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url("images/renu3.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url("images/renu2.jpg");
     /* background-image: url("images/renu2.jpg"); */
     height: 100vh;
     color: #fff;
